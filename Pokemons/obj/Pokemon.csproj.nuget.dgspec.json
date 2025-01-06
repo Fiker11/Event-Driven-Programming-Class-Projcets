@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/fikerdilnesawkebede/Desktop/class projects/Event-Driven-Programming-Class-Projcets/Pokemon/Pokemon.csproj": {}
+    "/Users/fikerdilnesawkebede/Desktop/class projects/Event-Driven-Programming-Class-Projcets/Pokemons/Pokemon.csproj": {}
   },
   "projects": {
-    "/Users/fikerdilnesawkebede/Desktop/class projects/Event-Driven-Programming-Class-Projcets/Pokemon/Pokemon.csproj": {
+    "/Users/fikerdilnesawkebede/Desktop/class projects/Event-Driven-Programming-Class-Projcets/Pokemons/Pokemon.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/fikerdilnesawkebede/Desktop/class projects/Event-Driven-Programming-Class-Projcets/Pokemon/Pokemon.csproj",
+        "projectUniqueName": "/Users/fikerdilnesawkebede/Desktop/class projects/Event-Driven-Programming-Class-Projcets/Pokemons/Pokemon.csproj",
         "projectName": "Pokemon",
-        "projectPath": "/Users/fikerdilnesawkebede/Desktop/class projects/Event-Driven-Programming-Class-Projcets/Pokemon/Pokemon.csproj",
+        "projectPath": "/Users/fikerdilnesawkebede/Desktop/class projects/Event-Driven-Programming-Class-Projcets/Pokemons/Pokemon.csproj",
         "packagesPath": "/Users/fikerdilnesawkebede/.nuget/packages/",
-        "outputPath": "/Users/fikerdilnesawkebede/Desktop/class projects/Event-Driven-Programming-Class-Projcets/Pokemon/obj/",
+        "outputPath": "/Users/fikerdilnesawkebede/Desktop/class projects/Event-Driven-Programming-Class-Projcets/Pokemons/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/fikerdilnesawkebede/.nuget/NuGet/NuGet.Config"
@@ -46,6 +46,10 @@
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[8.0.11, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[3.1.0, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
